@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#DEDEDEFF",
+        "font" : "System Light",
+        "color" : "#7C7C7CFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "System Light",
+        "color" : "#3B6BCFB6"
+      },
+      "backgroundSelected" : "#5387F4FF",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#191919FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 4,
+      "iconSize" : 28
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#FFFFFF00",
+      "spacing" : 0,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#FDFFFCFF",
+        "font" : "System Light",
+        "color" : "#000000FF"
+      },
+      "backgroundSelected" : "#559AF4FF"
+    },
+    "window" : {
+      "color" : "#FFFFFFD0",
+      "paddingHorizontal" : 0,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#FFFFFF00",
+      "blur" : 19,
+      "roundness" : 3,
+      "paddingVertical" : 0
+    },
+    "credit" : "Jovotrox",
+    "separator" : {
+      "color" : "#D4D4D400",
+      "thickness" : 4
+    },
+    "scrollbar" : {
+      "color" : "#D4D4D425",
+      "thickness" : 2
+    },
+    "name" : "Elegant Light v5"
+  }
+}
