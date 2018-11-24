@@ -6,31 +6,31 @@
         "size" : 10,
         "colorSelected" : "#DEDEDEFF",
         "font" : "System Light",
-        "color" : "#7C7C7CB1"
+        "color" : "#FEFFFF7C"
       },
       "shortcut" : {
-        "size" : 16,
+        "size" : 13,
         "colorSelected" : "#FEFFFFFF",
         "font" : "System Light",
-        "color" : "#5387F4A5"
+        "color" : "#FEFFFFDA"
       },
-      "backgroundSelected" : "#5387F4FF",
+      "backgroundSelected" : "#FEFFFF17",
       "text" : {
         "size" : 14,
         "colorSelected" : "#FFFFFFFF",
         "font" : "System Light",
-        "color" : "#D2D5DDFF"
+        "color" : "#FEFFFFEE"
       },
-      "iconPaddingHorizontal" : 5,
-      "paddingVertical" : 4,
+      "iconPaddingHorizontal" : 7,
+      "paddingVertical" : 6,
       "iconSize" : 28
     },
     "search" : {
-      "paddingVertical" : 2,
-      "background" : "#272C35B2",
+      "paddingVertical" : 0,
+      "background" : "#2C1D2F00",
       "spacing" : 0,
       "text" : {
-        "size" : 36,
+        "size" : 29,
         "colorSelected" : "#FDFFFCFF",
         "font" : "System Light",
         "color" : "#FEFFFFFF"
@@ -38,19 +38,19 @@
       "backgroundSelected" : "#559AF4FF"
     },
     "window" : {
-      "color" : "#21252AE4",
+      "color" : "#21212196",
       "paddingHorizontal" : 0,
       "width" : 680,
-      "borderPadding" : 10,
-      "borderColor" : "#FFFFFF00",
-      "blur" : 19,
-      "roundness" : 3,
-      "paddingVertical" : 0
+      "borderPadding" : 6,
+      "borderColor" : "#242A3200",
+      "blur" : 17,
+      "roundness" : 4,
+      "paddingVertical" : 5
     },
     "credit" : "jovotrox",
     "separator" : {
-      "color" : "#21252A00",
-      "thickness" : 4
+      "color" : "#21252A32",
+      "thickness" : 0
     },
     "scrollbar" : {
       "color" : "#D4D4D425",
