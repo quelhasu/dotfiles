@@ -1,0 +1,16 @@
+{
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": true,
+    "contrib_nbextensions_help_item/main": true,
+    "toc2/main": true,
+    "comment-uncomment/main": true,
+    "codefolding/main": true,
+    "execute_time/ExecuteTime": true,
+    "highlighter/highlighter": true,
+    "livemdpreview/livemdpreview": true,
+    "addbefore/main": true,
+    "code_font_size/code_font_size": true,
+    "hinterland/hinterland": true,
+    "splitcell/splitcell": true
+  }
+}

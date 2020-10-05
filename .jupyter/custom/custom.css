@@ -1,0 +1,43 @@
+@font-face {
+ font-family: "Fira Code";
+ font-weight: normal;
+ font-style: normal;
+ src: local('"Fira Code"'), url('fonts/firacode.otf') format('opentype');
+}
+
+:root {
+    --jp-private-toc-indent-width: 10px;
+}
+
+.jp-TableOfContents{
+    font-size: 9px;
+}
+
+body { 
+    font-size: 12px; 
+}
+
+#notebook-container{
+    font-size: 11px;
+}
+
+.CodeMirror-code{
+    font-family: "Fira Code";
+    font-size: 12px;
+}
+
+<script>
+    MathJax.Hub.Config({
+        "HTML-CSS": {
+            /*preferredFont: "TeX",*/
+            /*availableFonts: ["TeX", "STIX"],*/
+            styles: {
+                scale: 100,
+                ".MathJax_Display": {
+                    "font-size": "100%",
+                }
+            }
+        }
+    });
+</script>
+    
